@@ -1,0 +1,6 @@
+﻿INSERT INTO [dbo].[SwitchTable] ([Id], [Date], [Switch]) VALUES (0, N'2016-06-06 22:28:00', 1)
+INSERT INTO [dbo].[SwitchTable] ([Id], [Date], [Switch]) VALUES (1, N'2016-06-06 22:28:30', 0)
+INSERT INTO [dbo].[SwitchTable] ([Id], [Date], [Switch]) VALUES (2, N'2016-06-06 22:29:00', 1)
+INSERT INTO [dbo].[SwitchTable] ([Id], [Date], [Switch]) VALUES (3, N'2016-06-06 22:29:30', 0)
+INSERT INTO [dbo].[SwitchTable] ([Id], [Date], [Switch]) VALUES (4, N'2016-06-07 18:01:00', 1)
+INSERT INTO [dbo].[SwitchTable] ([Id], [Date], [Switch]) VALUES (5, N'2016-06-07 18:01:30', 0)

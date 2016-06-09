@@ -1,0 +1,10 @@
+D:\relay\DB\DB\bin\Debug\DB.exe.config
+D:\relay\DB\DB\bin\Debug\relay_database.mdf
+D:\relay\DB\DB\bin\Debug\relay_database_log.ldf
+D:\relay\DB\DB\bin\Debug\DB.exe
+D:\relay\DB\DB\bin\Debug\DB.pdb
+D:\relay\DB\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+D:\relay\DB\DB\obj\Debug\DB.Form1.resources
+D:\relay\DB\DB\obj\Debug\DB.csproj.GenerateResource.Cache
+D:\relay\DB\DB\obj\Debug\DB.exe
+D:\relay\DB\DB\obj\Debug\DB.pdb
